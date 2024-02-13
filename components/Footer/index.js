@@ -12,7 +12,7 @@ const Footer = () => {
         <h1>{data?.footer.note}</h1>
         <div className="footer-logo">
           <span>
-            Yagnesh <span />
+            Pruthvish <span />
           </span>
         </div>
 

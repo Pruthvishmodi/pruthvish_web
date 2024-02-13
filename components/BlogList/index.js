@@ -26,8 +26,8 @@ const BlogList = ({ data }) => {
                       'upload/ar_4:3,c_fill/c_scale,w_auto,dpr_auto/',
                     ) || 'static/img/placeholder-750x500.png'
                   }
-                  title="Yagnesh"
-                  alt="Yagnesh"
+                  title="Pruthvish"
+                  alt="Pruthvish"
                 />
               </a>
             </Link>
@@ -35,7 +35,7 @@ const BlogList = ({ data }) => {
               <div className="post-meta">
                 By
                 <a href="#" aria-label="name">
-                  Yagnesh Modh
+                  PruthvishModi
                 </a>
                 <span>03.02.2018</span>
               </div>

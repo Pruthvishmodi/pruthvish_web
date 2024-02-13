@@ -68,8 +68,8 @@ const PortfolioDetails = () => {
                     <img
                       className="d-block w-100"
                       src={item.url.replace('upload/', 'upload/c_fill/c_scale,w_auto,dpr_auto/')}
-                      title="Yagnesh"
-                      alt="Yagnesh"
+                      title="Pruthvish"
+                      alt="Pruthvish"
                     />
                   </Carousel.Item>
                 </For>

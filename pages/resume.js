@@ -20,7 +20,7 @@ const Resume = () => {
       </Head>
       <Banner data={data?.resumePage} />
       <Technologies data={data?.skills} />
-      <Certificates data={data?.certifications} />
+      {/* <Certificates data={data?.certifications} /> */}
       <Achievements data={data?.achievements} />
       <WorkExperience data={data?.workExperiences} />
       <Education data={data?.educationDetails} />

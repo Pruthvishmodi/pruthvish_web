@@ -48,7 +48,7 @@ const Header = ({ whiteHeader }) => {
           {/* Brand */}
           <Link href="/">
             <a className="navbar-brand">
-              Yagnesh <span className="theme-bg" />
+              Pruthvish <span className="theme-bg" />
             </a>
           </Link>
           {/* / */}

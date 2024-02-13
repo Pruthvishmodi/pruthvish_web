@@ -3,11 +3,11 @@ import Head from 'next/head';
 export default function Meta() {
   return (
     <Head>
-      <meta name="application-name" content="Yagnesh Modh" />
+      <meta name="application-name" content="PruthvishModi" />
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-      <meta name="apple-mobile-web-app-title" content="Yagnesh Modh" />
-      <meta name="description" content="Yagnesh Modh Personal Portfolio" />
+      <meta name="apple-mobile-web-app-title" content="PruthvishModi" />
+      <meta name="description" content="PruthvishModi Personal Portfolio" />
       <meta name="format-detection" content="telephone=no" />
       <meta name="mobile-web-app-capable" content="yes" />
       <meta name="msapplication-config" content="/browserconfig.xml" />
@@ -34,14 +34,14 @@ export default function Meta() {
 
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:url" content="https://yagneshmodh.com/" />
-      <meta name="twitter:title" content="Yagnesh Modh" />
-      <meta name="twitter:description" content="Yagnesh Modh personal portfolio" />
+      <meta name="twitter:title" content="PruthvishModi" />
+      <meta name="twitter:description" content="PruthvishModi personal portfolio" />
       <meta name="twitter:image" content="https://yagneshmodh.com/android-chrome-192x192.png" />
       <meta name="twitter:creator" content="@imyagnesh" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="Yagnesh Modh" />
-      <meta property="og:description" content="Yagnesh Modh personal portfolio" />
-      <meta property="og:site_name" content="Yagnesh Modh" />
+      <meta property="og:title" content="PruthvishModi" />
+      <meta property="og:description" content="PruthvishModi personal portfolio" />
+      <meta property="og:site_name" content="PruthvishModi" />
       <meta property="og:url" content="https://yagneshmodh.com/" />
       <meta property="og:image" content="https://yagneshmodh.com/apple-touch-icon.png" />
     </Head>

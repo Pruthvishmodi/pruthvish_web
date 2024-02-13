@@ -46,8 +46,8 @@ const Testimonial = ({ data }) => {
                           <img
                             className="lazyload"
                             data-src={item.avatar.url}
-                            alt="Yagnesh"
-                            title="Yagnesh"
+                            alt="Pruthvish"
+                            title="Pruthvish"
                           />
                         </div>
                         <h6>{item.name}</h6>
