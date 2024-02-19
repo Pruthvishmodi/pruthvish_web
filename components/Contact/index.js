@@ -72,7 +72,7 @@ const Contact = ({ data }) => {
             <div className="col-12 col-md-10 col-lg-7">
               <div className="section-title text-center">
                 <h2 className="font-alt">{data?.title ?? <Skeleton width={150} />}</h2>
-                <p>{data?.description ?? <Skeleton height={16} width="100%" count={2} />}</p>
+                {/* <p>{data?.description ?? <Skeleton height={16} width="100%" count={2} />}</p> */}
               </div>
             </div>
           </div>
